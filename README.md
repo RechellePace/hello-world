@@ -1,2 +1,2 @@
 # hello-world
-This is my repository for completing the GitHub tutorial
+My name is Rechelle and I am an IT Developer for Winzer Corporation.
